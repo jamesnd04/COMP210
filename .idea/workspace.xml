@@ -4,102 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3dafc3-6d3d-4829-af71-5b8fab41de8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asn06.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ass03_submission.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assin03_submission.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn002_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn021_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn02_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn03_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn04_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn051.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn05_sub.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06-sub,.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06-submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_Contains2.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_contains.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_sub.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_submission.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_submission.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn06_subsmn.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07_sub.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07_submission (2).zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07_submission.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07_submissions.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07p2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07p2p2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn07putTRY.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn09.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assn32.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assnnn06.zip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkDup1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkDups.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkNP.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkNP2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkNP3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkNP4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checksDups2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getMethod5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod10.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod11.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod12.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod13.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod7.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod8.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/putMethod9.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeMethod.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeMethod1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeMethod2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeMethod3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeMethod5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setMethod.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn01/Part3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn02/JavaWarmUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn03/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn03/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn03/NodeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn04/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn04/EmptyBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn04/NonEmptyBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/MaxBinHeapER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/Prioritized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn05/SimpleEmergencyRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn06.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn06/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn06/SelfBalancingBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn07/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn07/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assn07/PasswordManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/“assn01_submission.zip.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assn01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assn01/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="be3dafc3-6d3d-4829-af71-5b8fab41de8b" name="Changes" comment=".." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673896405234</updated>
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1684792310965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684792310965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,8 +107,42 @@
             <State />
           </value>
         </entry>
+        <entry key="d42501e3-a1c7-4884-a7c2-c6b12295c7d3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d42501e3-a1c7-4884-a7c2-c6b12295c7d3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
