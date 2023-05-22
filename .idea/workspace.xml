@@ -1,27 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3dafc3-6d3d-4829-af71-5b8fab41de8b" name="Changes" comment="" />
+    <list default="true" id="be3dafc3-6d3d-4829-af71-5b8fab41de8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asn06.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ass03_submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assin03_submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn002_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn021_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn02_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn03_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn04_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn051.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn05_sub.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06-sub,.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06-submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_Contains2.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_contains.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_sub.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_submission.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn06_subsmn.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07_sub.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07_submission (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07_submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07_submissions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07p2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07p2p2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn07putTRY.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn09.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assn32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assnnn06.zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkDup1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkDups.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkNP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkNP2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkNP3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkNP4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checksDups2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getMethod5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod10.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod11.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putMethod9.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeMethod.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeMethod1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeMethod2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeMethod3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeMethod5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setMethod.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn01/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn02/JavaWarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn03/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn03/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn03/NodeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn04/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn04/EmptyBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn04/NonEmptyBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/MaxBinHeapER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/Prioritized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn05/SimpleEmergencyRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn06.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn06/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn06/SelfBalancingBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn07/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn07/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assn07/PasswordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/“assn01_submission.zip.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assn01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assn01/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KQAOUlhsGez82CxY6c8R2GB6yB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\James\COMP210\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.assn06.S23_210Assn06.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn05.Main" />
+      <module name="COMP210" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assn06.S23_210Assn06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn06.S23_210Assn06.Main" />
+      <module name="COMP210" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn06.S23_210Assn06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.assn06.S23_210Assn06.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +185,35 @@
       <updated>1673896405234</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assn06/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
